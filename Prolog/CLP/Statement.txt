@@ -1,10 +1,10 @@
 Hay que hacer los siguientes ejercicios usando la libreria clpfd del swi prolog, y de la manera mas sencilla posible:
-	- Resuelve el sudoku sud22.pl de la practica 2. Podéis dar la entrada en el mismo programa.
-	- Probad la solución del ejercicio 5 del examen final de junio 2013.
-	- ¿Qué dígitos diferentes tenemos que asignar a las letras S,E,N,D,M,O,R,Y, 
+	- Resuelve el sudoku sud22.pl de la practica 2. PodÃ©is dar la entrada en el mismo programa.
+	- Probad la soluciÃ³n del ejercicio 5 del examen final de junio 2013.
+	- Â¿Que dÃ­gitos diferentes tenemos que asignar a las letras S,E,N,D,M,O,R,Y, 
 	   de manera que se cumpla la suma S E N D + M O R E = M O N E Y? 
-	- Tenemos 5 ordenadores idénticos que pueden ejecutar tareas de computación, una detrás de otra. 
-	  ¿Cuánto tiempo necesitaré como mínimo para ejecutar las siguientes 14 tareas (cada una en al menos un ordenador)? 
+	- Tenemos 5 ordenadores idÃ©nticos que pueden ejecutar tareas de computaciÃ³n, una detrÃ¡s de otra. 
+	  Â¿Cuanto tiempo necesitarÃ¡ como mÃ­nimo para ejecutar las siguientes 14 tareas (cada una en al menos un ordenador)? 
 		task 1 takes 8 minutes 
 		task 2 takes 6 minutes 
 		task 3 takes 7 minutes 
